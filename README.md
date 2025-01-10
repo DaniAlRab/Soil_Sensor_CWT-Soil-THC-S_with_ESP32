@@ -1,4 +1,4 @@
-# Modbus RS-485 Communication for Sensor Parameters
+# ESP32 + Modbus RS-485 + CWT-Soil-THC-S (Soil Sensor)
 
 ## Project Overview
 This project demonstrates the use of the **Modbus RTU protocol** over RS-485 communication using an ESP32 microcontroller. It reads sensor data, including humidity, temperature, conductivity, salinity, and TDS (Total Dissolved Solids), from Modbus registers and outputs the results via serial communication.
