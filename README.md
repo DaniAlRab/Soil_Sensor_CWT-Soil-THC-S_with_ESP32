@@ -101,12 +101,3 @@ Error reading Temperature: 3
 - Use proper termination resistors on the RS-485 bus to avoid communication issues.
 
 ---
-
-## License
-This project is licensed under the MIT License.
-
----
-
-## Author
-Chappie - Electrical Engineer with expertise in Modbus, RS-485, and embedded systems.
-
